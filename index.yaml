@@ -36,7 +36,7 @@ distributions:
     source_builds:
       default: kinetic/source-build.yaml
 doc_builds:
-  independent-packages: doc-independent-build.yaml
+  independent-site: doc-independent-build.yaml
 jenkins_url: http://18.204.202.28
 notification_emails:
 - ros-buildfarm-testfarm@googlegroups.com
